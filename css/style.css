@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 20px;
+}
+header {
+    background: #eee;
+    padding: 10px;
+}
+.animal-card {
+    border: 1px solid #ccc;
+    background: white;
+    margin: 10px;
+    padding: 10px;
+}
+.animal-card img {
+    max-width: 200px;
+}
